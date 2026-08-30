@@ -1,0 +1,16 @@
+{
+  "feature_columns": [
+    "temperature",
+    "humidity",
+    "precipitation",
+    "soil_moisture",
+    "elevation"
+  ],
+  "class_order": [
+    "Low",
+    "Moderate",
+    "High"
+  ],
+  "n_train": 4000,
+  "n_test": 1000
+}

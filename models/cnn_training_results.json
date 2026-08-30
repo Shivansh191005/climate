@@ -1,0 +1,7 @@
+{
+  "best_val_accuracy": 0.8486486486486486,
+  "class_names": [
+    "landslide",
+    "non_landslide"
+  ]
+}

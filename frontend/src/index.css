@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@media print {
+  body {
+    background: white !important;
+  }
+  #prediction-report {
+    box-shadow: none !important;
+  }
+}

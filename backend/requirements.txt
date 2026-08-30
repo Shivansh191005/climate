@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+psycopg2-binary
+pydantic
+pydantic-settings
+python-multipart
+joblib
+numpy
+shap
+torch
+torchvision
+pillow
+xgboost
+scikit-learn
+boto3

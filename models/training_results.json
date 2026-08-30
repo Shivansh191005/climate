@@ -1,0 +1,15 @@
+{
+  "random_forest_baseline": {
+    "f1_macro": 0.997312279064564,
+    "auc_macro": 0.9999795746666479
+  },
+  "xgboost": {
+    "f1_macro": 0.997312279064564,
+    "auc_macro": 0.9999698141229594
+  },
+  "class_order": [
+    "Low",
+    "Moderate",
+    "High"
+  ]
+}
