@@ -12,8 +12,8 @@ dist/
 .env
 
 # Model artifacts (too large for git - see README)
-models/*.pkl
-models/*.pth
+# models/*.pkl
+# models/*.pth
 
 # Data (large raw files - keep folder structure via .gitkeep)
 data/raw/images/*/*.jpg
